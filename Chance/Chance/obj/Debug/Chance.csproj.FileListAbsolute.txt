@@ -1,0 +1,7 @@
+E:\Codigos de Scripting\Chance\Chance\bin\Debug\Chance.exe.config
+E:\Codigos de Scripting\Chance\Chance\bin\Debug\Chance.exe
+E:\Codigos de Scripting\Chance\Chance\bin\Debug\Chance.pdb
+E:\Codigos de Scripting\Chance\Chance\obj\Debug\Chance.csprojAssemblyReference.cache
+E:\Codigos de Scripting\Chance\Chance\obj\Debug\Chance.csproj.CoreCompileInputs.cache
+E:\Codigos de Scripting\Chance\Chance\obj\Debug\Chance.exe
+E:\Codigos de Scripting\Chance\Chance\obj\Debug\Chance.pdb
